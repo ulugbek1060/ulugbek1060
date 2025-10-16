@@ -9,7 +9,7 @@ I love building modern, user-friendly mobile apps and exploring new technologies
 - 📫 Reach me on [Telegram](https://t.me/ulugbek_ulashev) or [LinkedIn](https://www.linkedin.com/in/ulugbek-ulashev/)
 - ⚡ Fun fact: I enjoy designing clean UI layouts and optimizing code for performance 🚀
 
-## Technologies & Tools
+## Technologies
 ![Android SDK](https://img.shields.io/badge/SDK-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![Flutter SDK](https://img.shields.io/badge/SDK-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![Java Code](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
